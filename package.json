@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-banner.com",
+  "version": "1.0.0",
+  "description": "The goal of this test is to verify the candidate's ability to develop an integration script that allowsthird-party websites to display a banner served by our system.",
+  "main": "banner.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dynamic-banner"
+  },
+  "keywords": [
+    "node",
+    "dynamic",
+    "banner"
+  ],
+  "author": "Pardeep Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
